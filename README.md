@@ -10,7 +10,7 @@ A linear regression model I made using some AirBnB data. Worth noting: I had to 
 I coded my own gradient descent algorithm. If you go through the whole thing and compare the coefficients with the output from the lm() function, you'll see that they match!
 
 ## LMER MPLS.R
-I compared 6 different Linear Mixed Effects Regression models to see which one was the most accurate in predicting reading score over time for each child as they progress through grades 5-8. I used AICc as my criterion to choose the most performant model.
+Longitudinal data are a special case of repeated measures data, with time (or duration) representing the dimension over which the measurements are collected. Analyzing changes over time must be approached with more advanced statistical methods since the data are not independent, and often involve dropout and missing assessments. Thus, I compared 6 different Linear Mixed Effects Regression models to see which one was the most accurate in predicting reading score over time for each child as they progress through grades 5-8. I used AICc as my criterion to choose the most performant model.
 
 ## EDA.R
 This is some exploratory data analysis I performed on AirBnB data. I created several bar graphs as well as scatterplots.
