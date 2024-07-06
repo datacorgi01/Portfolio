@@ -1,5 +1,8 @@
 # Portfolio
 
+## FacialRecognition.ipynb
+The point of this small exercise was to familiarize myself with how to do facial recoginition in Python. Throughout the below notebook, I built a face recognition system with the help of the face recognition library from the dlib package.
+
 ## Predicting Earthquake Damage.ipynb
 I used Support Vector Machine (SVM), Random Forest, and k-Nearest Neighbors (kNN) models to predict building damage ratings from the 2015 Gorkha earthquake. This major earthquake was near the Gorkha district of Gandaki Pradesh, Nepal that reached a magnitude of 7.6 and impacted almost one-third of the population. Overall, the SVM model performed the best as a whole. The random forest model was better than kNN in terms of accuracy, but not in terms of precision. kNN seemed to have a lot more mis-classifications of damage grade than my random forest model did when I looked at the confusion matrices.
 
