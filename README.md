@@ -18,5 +18,9 @@ Longitudinal data are a special case of repeated measures data, with time (or du
 ## EDA.R
 This is some exploratory data analysis I performed on AirBnB data. I created several bar graphs as well as scatterplots.
 
-## PySparkRegressionProject_vF.R
+## PySparkRegressionProject_vF.ipynb
 This is a linear regression project to predict cancer severity score. I chose to mainly use PySpark in an attempt to familiarize myself with it for data science purposes. 
+
+## UFC Winner Classification Project.ipynb
+This is a classification project to predict who will win in a UFC fighting match. 
+
